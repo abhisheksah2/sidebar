@@ -25,26 +25,38 @@
 }
 
 #red:hover{
-    background-color: red;
+    /* background-color: red; */
     border-radius: 5px;
+    background: #ff0000;
+background: linear-gradient(45deg,rgba(255, 0, 0, 1) 0%, rgba(255, 156, 156, 1) 100%);
 }
 #blue:hover{
-    background-color: blue;
+    /* background-color: blue; */
     border-radius: 5px;
+    background: #0000FF;
+    background: linear-gradient(45deg, rgba(0, 0, 255, 1) 0%, rgba(156, 174, 255, 1) 99%);
 }
 #purple:hover{
-    background-color: purple;
+    /* background-color: purple; */
     border-radius: 5px;
+    background: #800080;
+    background: linear-gradient(45deg, rgba(128, 0, 128, 1) 0%, rgba(250, 127, 250, 1) 99%);
 }
 #orange:hover{
-    background-color: orange;
+    /* background-color: orange; */
     border-radius: 5px;
+    background: #FFA500;
+background: linear-gradient(45deg, rgba(255, 165, 0, 1) 0%, rgba(255, 177, 105, 1) 100%);
 }
 #pink:hover{
-    background-color: pink;
+    /* background-color: pink; */
     border-radius: 5px;
+    background: #ff5476;
+background: linear-gradient(45deg, rgba(255, 84, 118, 1) 0%, rgba(255, 192, 173, 1) 100%);
 }
 #limegreen:hover{
-    background-color: limegreen;
+    /* background-color: limegreen; */
+    background: #00ff00;
+background: linear-gradient(45deg, rgba(0, 255, 0, 1) 0%, rgba(117, 255, 117, 1) 100%);
     border-radius: 5px;
 }
